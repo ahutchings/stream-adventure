@@ -11,4 +11,3 @@ function end (done) {
 }
 
 process.stdin.pipe(toUpperCase).pipe(process.stdout);
-

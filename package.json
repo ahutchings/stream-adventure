@@ -9,6 +9,7 @@
   "author": "Andrew Hutchings <andrew.hutchings@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "concat-stream": "^1.4.8",
     "split": "^0.3.3",
     "through2": "^0.6.5"
   }
